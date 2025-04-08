@@ -1,6 +1,6 @@
 id: page.codeberg.JakobDev.jdPermissionStoreEdit
 runtime: org.kde.Platform
-runtime-version: "6.8"
+runtime-version: '6.8'
 sdk: org.kde.Sdk
 command: jdpermissionstoreedit
 finish-args:
@@ -16,8 +16,8 @@ modules:
     buildsystem: cmake-ninja
     sources:
       - type: archive
-        url: https://codeberg.org/JakobDev/jdPermissionStoreEdit/archive/1.0.tar.gz
-        sha256: 0fdc0c6a217d192b09aeef03dc8485ac4c18ee02686d7eca8edd637f326a5661
+        url: https://codeberg.org/JakobDev/jdPermissionStoreEdit/archive/1.1.tar.gz
+        sha256: 1b9bc6e75e9d8ae9e27a9481e0ffe53d9f37fe4438c0dccfb51dcac33b554383
         x-checker-data:
           type: json
           url: https://codeberg.org/api/v1/repos/JakobDev/jdPermissionStoreEdit/releases/latest
