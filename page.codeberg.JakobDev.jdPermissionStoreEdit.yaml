@@ -1,6 +1,6 @@
 id: page.codeberg.JakobDev.jdPermissionStoreEdit
 runtime: org.kde.Platform
-runtime-version: '6.8'
+runtime-version: '6.9'
 sdk: org.kde.Sdk
 command: jdpermissionstoreedit
 finish-args:
